@@ -27,7 +27,7 @@ public class Main {
         };
 
         TreeMap<String, Integer> stringIntegerTreeMap = new TreeMap<>(comparator);
-
+        
         for (String str : strings
         ) {
             if (stringIntegerTreeMap.containsKey(str)) {

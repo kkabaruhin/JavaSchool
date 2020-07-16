@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88ef1893-f753-45b9-8cdb-c93ac27ad7dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../10)Lambda. Stream API/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10)Lambda. Stream API/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10)Lambda. Stream API/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10)Lambda. Stream API/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10)Lambda. Stream API/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10)Lambda. Stream API/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10)Lambda. Stream API/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10)Lambda. Stream API/10)Lambda. Stream API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10)Lambda. Stream API/src/com/sbt/jscool/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11)Multithreading/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11)Multithreading/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11)Multithreading/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11)Multithreading/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11)Multithreading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11)Multithreading/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11)Multithreading/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11)Multithreading/11)Multithreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11)Multithreading/data.txt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11)Multithreading/src/com/sbt/jscool/FactorialThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13)Java memory model/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13)Java memory model/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13)Java memory model/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13)Java memory model/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13)Java memory model/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13)Java memory model/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13)Java memory model/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13)Java memory model/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13)Java memory model/13)Java memory model.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13)Java memory model/src/com/sbt/jscool/Callable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13)Java memory model/src/com/sbt/jscool/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13)Java memory model/src/com/sbt/jscool/ThreadException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15)Sockets/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15)Sockets/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15)Sockets/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15)Sockets/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15)Sockets/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15)Sockets/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15)Sockets/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15)Sockets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15)Sockets/15)Sockets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15)Sockets/src/com/sbt/jscool/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15)Sockets/src/com/sbt/jscool/ClientMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2001. A+B/.idea/2001. A+B.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21)JDBC1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21)JDBC1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21)JDBC1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21)JDBC1/.idea/libraries/h2_1_4_200.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21)JDBC1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21)JDBC1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21)JDBC1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21)JDBC1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21)JDBC1/21)JDBC1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21)JDBC1/db.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21)JDBC1/db.trace.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21)JDBC1/lib/h2-1.4.200.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5)exception hw/exception hw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6)Reflection/6)Reflection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6)Reflection/src/com/sbt/jscool/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6)Reflection/src/com/sbt/jscool/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6)Reflection/src/com/sbt/jscool/Living.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7)ClassLoaders/7)ClassLoaders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8)Module. Build tools. Testing/.idea/8)Module. Build tools. Testing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8)Module. Build tools. Testing/SocialNetwork/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8)Module. Build tools. Testing/SocialNetwork/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8)Module. Build tools. Testing/SocialNetwork/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8)Module. Build tools. Testing/SocialNetwork/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8)Module. Build tools. Testing/SocialNetwork/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8)Module. Build tools. Testing/SocialNetwork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8)Module. Build tools. Testing/SocialNetwork/8)socialNetwork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8)Module. Build tools. Testing/SocialNetwork/src/main/java/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8)Module. Build tools. Testing/SocialNetwork/src/main/java/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8)Module. Build tools. Testing/SocialNetwork/src/main/java/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8)Module. Build tools. Testing/SocialNetwork/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8)Module. Build tools. Testing/SocialNetwork/src/test/java/ServerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collection (lesson 3 hm)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstMaven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstMaven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstMaven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstMaven/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstMaven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstMaven/firstMaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstMaven/src/main/java/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstMaven/src/main/java/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstSpring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstSpring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstSpring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstSpring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstSpring/firstSpring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstSpring/src/main/java/hello/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstSpring/src/main/java/hello/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstSpring/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstSpring/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled104.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2001. A+B/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2001. A+B/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2001. A+B/out/production/2001. A+B/com/sbt/jscool/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection (lesson 3 hm)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collection (lesson 3 hm)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection (lesson 3 hm)/src/com/sbt/jscool/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collection (lesson 3 hm)/src/com/sbt/jscool/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eWvD4epfc942iUHB8AqQFT1PUy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88ef1893-f753-45b9-8cdb-c93ac27ad7dc" name="Default Changelist" comment="" />
+      <created>1594450050751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594450050751</updated>
+      <workItem from="1594450087103" duration="123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1594450207663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594450207663" />
+    <state x="342" y="140" key="new project wizard" timestamp="1594450212531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594450212531" />
+  </component>
+</project>
